@@ -1,0 +1,861 @@
+{
+    "Adr": {
+        "adjacent_regions": [
+            "Ven",
+            "Apu",
+            "Trieste",
+            "Alb",
+            "Ionian Sea"
+        ],
+        "is_supply_base": false,
+        "region_type": "sea"
+    },
+    "Aegean Sea": {
+        "adjacent_regions": [
+            "Constan",
+            "Smyrna",
+            "Bulgaria",
+            "Greece",
+            "Ionian Sea",
+            "East Med",
+            "Black Sea"
+        ],
+        "is_supply_base": false,
+        "region_type": "sea"
+    },
+    "Alb": {
+        "adjacent_regions": [
+            "Trieste",
+            "Greece",
+            "Adr",
+            "Ionian Sea",
+            "Serbia"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "Ankara": {
+        "adjacent_regions": [
+            "Constan",
+            "Black Sea",
+            "Armenia",
+            "Smyrna"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Apu": {
+        "adjacent_regions": [
+            "Ven",
+            "Rom",
+            "Nap",
+            "Adr",
+            "Ionian Sea"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "Armenia": {
+        "adjacent_regions": [
+            "Sevastopol",
+            "Ankara",
+            "Smyrna",
+            "Syria",
+            "Black Sea"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "Baltic Sea": {
+        "adjacent_regions": [
+            "Kiel",
+            "Berlin",
+            "Prussia",
+            "Livonia",
+            "Sweden",
+            "Ska",
+            "Gulf of Bothnia"
+        ],
+        "is_supply_base": false,
+        "region_type": "sea"
+    },
+    "Barents Sea": {
+        "adjacent_regions": [
+            "St. Petersburg",
+            "Norwegian Sea"
+        ],
+        "is_supply_base": false,
+        "region_type": "sea"
+    },
+    "Belgium": {
+        "adjacent_regions": [
+            "Picardy",
+            "Burgundy",
+            "Ruhr",
+            "English Channel",
+            "Hol",
+            "North Sea"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Berlin": {
+        "adjacent_regions": [
+            "Munich",
+            "Kiel",
+            "Baltic Sea",
+            "Prussia",
+            "Silesia"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Black Sea": {
+        "adjacent_regions": [
+            "Sevastopol",
+            "Constan",
+            "Ankara",
+            "Armenia",
+            "Bulgaria",
+            "Rumania",
+            "Aegean Sea"
+        ],
+        "is_supply_base": false,
+        "region_type": "sea"
+    },
+    "Bohemia": {
+        "adjacent_regions": [
+            "Tyrolia",
+            "Munich",
+            "Silesia",
+            "Galicia",
+            "Vienna"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "Brest": {
+        "adjacent_regions": [
+            "Picardy",
+            "Mid Atlantic Ocean",
+            "English Channel",
+            "Paris",
+            "Gascony"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Budapest": {
+        "adjacent_regions": [
+            "Vienna",
+            "Galicia",
+            "Rumania",
+            "Serbia",
+            "Trieste"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Bulgaria": {
+        "adjacent_regions": [
+            "Constan",
+            "Black Sea",
+            "Rumania",
+            "Serbia",
+            "Aegean Sea",
+            "Greece"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Burgundy": {
+        "adjacent_regions": [
+            "Picardy",
+            "Paris",
+            "Gascony",
+            "Marseilles",
+            "Ruhr",
+            "Belgium",
+            "Munich"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "Clyde": {
+        "adjacent_regions": [
+            "Edinburgh",
+            "Lpl",
+            "North Atlantic Ocean"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "Constan": {
+        "adjacent_regions": [
+            "Black Sea",
+            "Aegean Sea",
+            "Smyrna",
+            "Ankara",
+            "Bulgaria"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Denmark": {
+        "adjacent_regions": [
+            "Kiel",
+            "Hel",
+            "Ska",
+            "North Sea",
+            "Sweden"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "East Med": {
+        "adjacent_regions": [
+            "Smyrna",
+            "Syria",
+            "Ionian Sea",
+            "Aegean Sea"
+        ],
+        "is_supply_base": false,
+        "region_type": "sea"
+    },
+    "Edinburgh": {
+        "adjacent_regions": [
+            "North Sea",
+            "Yor",
+            "Clyde",
+            "Lpl",
+            "North Atlantic Ocean"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "English Channel": {
+        "adjacent_regions": [
+            "Wales",
+            "London",
+            "Picardy",
+            "Brest",
+            "Belgium",
+            "North Sea",
+            "Mid Atlantic Ocean",
+            "Irish Sea"
+        ],
+        "is_supply_base": false,
+        "region_type": "sea"
+    },
+    "Finland": {
+        "adjacent_regions": [
+            "St. Petersburg",
+            "Norway",
+            "Sweden",
+            "Gulf of Bothnia"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "Galicia": {
+        "adjacent_regions": [
+            "Bohemia",
+            "Vienna",
+            "Silesia",
+            "Warsaw",
+            "Ukraine",
+            "Rumania",
+            "Budapest"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "Gascony": {
+        "adjacent_regions": [
+            "Brest",
+            "Paris",
+            "Burgundy",
+            "Marseilles",
+            "Mid Atlantic Ocean"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "Greece": {
+        "adjacent_regions": [
+            "Bulgaria",
+            "Aegean Sea",
+            "Ionian Sea",
+            "Alb",
+            "Serbia"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Gulf of Bothnia": {
+        "adjacent_regions": [
+            "Livonia",
+            "St. Petersburg",
+            "Sweden",
+            "Finland",
+            "Baltic Sea"
+        ],
+        "is_supply_base": false,
+        "region_type": "sea"
+    },
+    "Gulf of Lyon": {
+        "adjacent_regions": [
+            "Marseilles",
+            "Pie",
+            "Ven",
+            "Tus",
+            "Spain",
+            "Western Med",
+            "Tyrrhenian Sea"
+        ],
+        "is_supply_base": false,
+        "region_type": "sea"
+    },
+    "Hel": {
+        "adjacent_regions": [
+            "Kiel",
+            "Hol",
+            "Denmark",
+            "North Sea"
+        ],
+        "is_supply_base": false,
+        "region_type": "sea"
+    },
+    "Hol": {
+        "adjacent_regions": [
+            "Ruhr",
+            "Kiel",
+            "Belgium",
+            "Hel",
+            "North Sea"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Ionian Sea": {
+        "adjacent_regions": [
+            "Nap",
+            "Apu",
+            "Greece",
+            "Alb",
+            "Tunis",
+            "Tyrrhenian Sea",
+            "Adr",
+            "Aegean Sea",
+            "East Med"
+        ],
+        "is_supply_base": false,
+        "region_type": "sea"
+    },
+    "Irish Sea": {
+        "adjacent_regions": [
+            "Lpl",
+            "Wales",
+            "North Atlantic Ocean",
+            "Mid Atlantic Ocean",
+            "English Channel"
+        ],
+        "is_supply_base": false,
+        "region_type": "sea"
+    },
+    "Kiel": {
+        "adjacent_regions": [
+            "Ruhr",
+            "Munich",
+            "Hol",
+            "Hel",
+            "Denmark",
+            "Ska",
+            "Baltic Sea",
+            "Berlin"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Livonia": {
+        "adjacent_regions": [
+            "Prussia",
+            "Warsaw",
+            "Baltic Sea",
+            "Gulf of Bothnia",
+            "St. Petersburg",
+            "Moscow"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "London": {
+        "adjacent_regions": [
+            "Yor",
+            "Wales",
+            "North Sea",
+            "English Channel"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Lpl": {
+        "adjacent_regions": [
+            "Edinburgh",
+            "Clyde",
+            "Yor",
+            "Irish Sea",
+            "Wales",
+            "North Atlantic Ocean"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "Marseilles": {
+        "adjacent_regions": [
+            "Gascony",
+            "Gulf of Lyon",
+            "Burgundy",
+            "Pie"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Mid Atlantic Ocean": {
+        "adjacent_regions": [
+            "Brest",
+            "Gascony",
+            "North Africa",
+            "Spain",
+            "Portugal",
+            "North Atlantic Ocean",
+            "Irish Sea",
+            "English Channel",
+            "Western Med"
+        ],
+        "is_supply_base": false,
+        "region_type": "sea"
+    },
+    "Moscow": {
+        "adjacent_regions": [
+            "Warsaw",
+            "Livonia",
+            "St. Petersburg",
+            "Ukraine",
+            "Sevastopol"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Munich": {
+        "adjacent_regions": [
+            "Burgundy",
+            "Tyrolia",
+            "Bohemia",
+            "Ruhr",
+            "Kiel",
+            "Berlin",
+            "Silesia"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Nap": {
+        "adjacent_regions": [
+            "Rom",
+            "Tyrrhenian Sea",
+            "Apu",
+            "Ionian Sea"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "North Africa": {
+        "adjacent_regions": [
+            "Tunis",
+            "Western Med",
+            "Mid Atlantic Ocean"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "North Atlantic Ocean": {
+        "adjacent_regions": [
+            "Edinburgh",
+            "Clyde",
+            "Yor",
+            "Lpl",
+            "Norwegian Sea",
+            "Irish Sea",
+            "Mid Atlantic Ocean"
+        ],
+        "is_supply_base": false,
+        "region_type": "sea"
+    },
+    "North Sea": {
+        "adjacent_regions": [
+            "Edinburgh",
+            "Yor",
+            "London",
+            "Belgium",
+            "Hol",
+            "Denmark",
+            "Norway",
+            "Norwegian Sea",
+            "Ska",
+            "English Channel",
+            "Hel"
+        ],
+        "is_supply_base": false,
+        "region_type": "sea"
+    },
+    "Norway": {
+        "adjacent_regions": [
+            "St. Petersburg",
+            "Sweden",
+            "Norwegian Sea",
+            "North Sea",
+            "Finland",
+            "Ska"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Norwegian Sea": {
+        "adjacent_regions": [
+            "Norway",
+            "North Sea",
+            "Barents Sea",
+            "North Atlantic Ocean"
+        ],
+        "is_supply_base": false,
+        "region_type": "sea"
+    },
+    "Paris": {
+        "adjacent_regions": [
+            "Picardy",
+            "Brest",
+            "Burgundy",
+            "Gascony"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Picardy": {
+        "adjacent_regions": [
+            "Belgium",
+            "Paris",
+            "Brest",
+            "Burgundy",
+            "English Channel"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "Pie": {
+        "adjacent_regions": [
+            "Marseilles",
+            "Ven",
+            "Tus",
+            "Gulf of Lyon"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "Portugal": {
+        "adjacent_regions": [
+            "Spain",
+            "Mid Atlantic Ocean"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Prussia": {
+        "adjacent_regions": [
+            "Berlin",
+            "Silesia",
+            "Warsaw",
+            "Baltic Sea",
+            "Livonia"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "Rom": {
+        "adjacent_regions": [
+            "Tus",
+            "Tyrrhenian Sea",
+            "Ven",
+            "Nap",
+            "Apu"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Ruhr": {
+        "adjacent_regions": [
+            "Burgundy",
+            "Hol",
+            "Belgium",
+            "Munich",
+            "Kiel"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "Rumania": {
+        "adjacent_regions": [
+            "Galicia",
+            "Budapest",
+            "Ukraine",
+            "Sevastopol",
+            "Bulgaria",
+            "Serbia",
+            "Black Sea"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Serbia": {
+        "adjacent_regions": [
+            "Budapest",
+            "Trieste",
+            "Bulgaria",
+            "Greece",
+            "Alb",
+            "Rumania"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Sevastopol": {
+        "adjacent_regions": [
+            "Moscow",
+            "Ukraine",
+            "Rumania",
+            "Black Sea",
+            "Armenia"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "Silesia": {
+        "adjacent_regions": [
+            "Bohemia",
+            "Galicia",
+            "Munich",
+            "Berlin",
+            "Warsaw",
+            "Prussia"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "Ska": {
+        "adjacent_regions": [
+            "Kiel",
+            "Denmark",
+            "Norway",
+            "Sweden",
+            "North Sea",
+            "Baltic Sea"
+        ],
+        "is_supply_base": false,
+        "region_type": "sea"
+    },
+    "Smyrna": {
+        "adjacent_regions": [
+            "Constan",
+            "Ankara",
+            "Aegean Sea",
+            "East Med",
+            "Syria",
+            "Armenia"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Spain": {
+        "adjacent_regions": [
+            "Gulf of Lyon",
+            "Portugal",
+            "Mid Atlantic Ocean"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "St. Petersburg": {
+        "adjacent_regions": [
+            "Livonia",
+            "Moscow",
+            "Barents Sea",
+            "Gulf of Bothnia",
+            "Finland",
+            "Norway"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Sweden": {
+        "adjacent_regions": [
+            "Denmark",
+            "Norway",
+            "Ska",
+            "Gulf of Bothnia",
+            "Baltic Sea",
+            "Finland"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Syria": {
+        "adjacent_regions": [
+            "Smyrna",
+            "Armenia",
+            "East Med"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "Trieste": {
+        "adjacent_regions": [
+            "Ven",
+            "Tyrolia",
+            "Vienna",
+            "Budapest",
+            "Adr",
+            "Alb",
+            "Serbia"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Tunis": {
+        "adjacent_regions": [
+            "Ionian Sea",
+            "Tyrrhenian Sea",
+            "Western Med",
+            "North Africa"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"df
+    },
+    "Tus": {
+        "adjacent_regions": [
+            "Pie",
+            "Ven",
+            "Gulf of Lyon",
+            "Tyrrhenian Sea",
+            "Rom"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "Tyrolia": {
+        "adjacent_regions": [
+            "Ven",
+            "Munich",
+            "Bohemia",
+            "Vienna",
+            "Trieste"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "Tyrrhenian Sea": {
+        "adjacent_regions": [
+            "Tus",
+            "Rom",
+            "Nap",
+            "Tunis",
+            "Western Med",
+            "Gulf of Lyon",
+            "Ionian Sea"
+        ],
+        "is_supply_base": false,
+        "region_type": "sea"
+    },
+    "Ukraine": {
+        "adjacent_regions": [
+            "Galicia",
+            "Warsaw",
+            "Moscow",
+            "Rumania",
+            "Sevastopol"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    },
+    "Ven": {
+        "adjacent_regions": [
+            "Pie",
+            "Tyrolia",
+            "Ven",
+            "Tus",
+            "Gulf of Lyon",
+            "Apu",
+            "Adr",
+            "Trieste",
+            "Rom"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Vienna": {
+        "adjacent_regions": [
+            "Tyrolia",
+            "Bohemia",
+            "Trieste",
+            "Budapest",
+            "Galicia"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Wales": {
+        "adjacent_regions": [
+            "Yor",
+            "Lpl",
+            "Irish Sea",
+            "English Channel",
+            "London"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Warsaw": {
+        "adjacent_regions": [
+            "Galicia",
+            "Silesia",
+            "Prussia",
+            "Ukraine",
+            "Moscow",
+            "Livonia"
+        ],
+        "is_supply_base": true,
+        "region_type": "land"
+    },
+    "Western Med": {
+        "adjacent_regions": [
+            "Tunis",
+            "North Africa",
+            "Mid Atlantic Ocean",
+            "Gulf of Lyon",
+            "Tyrrhenian Sea"
+        ],
+        "is_supply_base": false,
+        "region_type": "sea"
+    },
+    "Yor": {
+        "adjacent_regions": [
+            "Edinburgh",
+            "North Sea",
+            "London",
+            "Lpl",
+            "North Atlantic Ocean",
+            "Wales"
+        ],
+        "is_supply_base": false,
+        "region_type": "land"
+    }
+}
